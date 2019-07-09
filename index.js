@@ -5,3 +5,9 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
+
+
+funtion sayHiToGrandma(string) {
+return string.toLowerCase()  
+}
+
